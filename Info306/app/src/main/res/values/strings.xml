@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Info306</string>
+    <string name="goto2">open activity 2</string>
+    <string name="goto1">open activity 2"</string>
+    <string name="GPS">PokeMap</string>
+    <string name="bdd">Pokedex</string>
+    <string name="Accueil">Home</string>
+    <string name="dark">dark</string>
+    <string name="white">white</string>
+    <string name="themeDark">dark theme selected</string>
+    <string name="themeWhite">white theme selected</string>
+    <string name="homebis">WELCOME</string>
+    <string name="homebis2">TO</string>
+    <string name="homebis3">POKESEARCH</string>
+    <string name="home">Home</string>
+    <string name="quizz">Info</string>
+    <string name="lightMode">Light Mode</string>
+    <string name="darkMode">Dark Mode</string>
+    <string name="search">About</string>
+    <string name="search1">Search</string>
+    <string name="infos">With PokeSearch :</string>
+    <string name="infos1"> ->Go on an adventure and capture new Pokemons</string>
+    <string name="infos2"> ->Consult your companions in your Pokedex</string>
+    <string name="about">About</string>
+    <string name="battery">Battery :</string>
+    <string name="text">Light Mode</string>
+    <string name="choose">Choose your theme</string>
+    <string-array name="numbers">
+        <item>All</item>
+        <item>Captured</item>
+    </string-array>
+</resources>

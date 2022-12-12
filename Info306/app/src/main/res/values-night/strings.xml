@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Info306</string>
+    <string name="goto2">open activity 2</string>
+    <string name="goto1">open activity 2"</string>
+    <string name="GPS">GPS</string>
+    <string name="bdd">Database</string>
+    <string name="Accueil">Home</string>
+    <string name="dark">dark</string>
+    <string name="white">white</string>
+    <string name="themeDark">dark theme selected</string>
+    <string name="themeWhite">white theme selected</string>
+    <string name="home">Home</string>
+    <string name="quizz">Quizz</string>
+    <string name="lightMode">Mode claire</string>
+    <string name="darkMode">Mode Sombre</string>
+    <string name="search">Search</string>
+    <string name="text">Night Mode</string>
+    <string-array name="numbers">
+        <item>All</item>
+        <item>Captured</item>
+    </string-array>
+
+</resources>

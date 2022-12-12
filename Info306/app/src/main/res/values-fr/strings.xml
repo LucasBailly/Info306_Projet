@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Info306</string>
+    <string name="goto2">ouvrir activité 2"</string>
+    <string name="goto1">ouvrir activité 1"</string>
+    <string name="GPS">PokéMap</string>
+    <string name="Accueil">Accueil</string>
+    <string name="bdd">Pokédex</string>
+    <string name="dark">Sombre</string>
+    <string name="white">Claire</string>
+    <string name="themeDark">thème claire selectionné</string>
+    <string name="themeWhite">thème sombre selectionné</string>
+    <string name="homebis">BIENVENUE</string>
+    <string name="homebis2">SUR</string>
+    <string name="homebis3">POKESEARCH</string>
+    <string name="home">Accueil</string>
+    <string name="quizz">Infos</string>
+    <string name="lightMode">Mode Claire</string>
+    <string name="about">À Propos</string>
+    <string name="battery">Batterie :</string>
+    <string name="darkMode">Mode Sombre</string>
+    <string name="search">À Propos</string>
+    <string name="search1">Rechercher</string>
+    <string name="infos">Avec PokeSearch :</string>
+    <string name="infos1"> Partez à l"'"aventure et capturez de nouveaux Pokemons</string>
+    <string name="infos2"> Consultez vos compagnons dans votre Pokedex</string>
+    <string name="choose">Choisissez votre thème</string>
+    <string name="text">Mode Claire</string>
+    <string-array name="numbers">
+        <item>Tous</item>
+        <item>Capturés</item>
+    </string-array>
+</resources>
